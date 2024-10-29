@@ -28,8 +28,9 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ## Official Resources
 
-- [Spring.io](https://spring.io/)
+- [Spring AI Project](https://spring.io/projects/spring-ai)
 - [Spring AI Reference Documentation](https://docs.spring.io/spring-ai/reference/)
+- [Spring AI API Documentation](https://docs.spring.io/spring-ai/docs/1.0.0-SNAPSHOT/api/)
 
 ## Books
 
@@ -37,12 +38,12 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ## Podcasts
 
-- ["This Day in AI"](https://thisday.in/ai)
-- ["Practical AI" from Changelog](https://changelog.com/practicalai)
-- ["Latent Space"](https://www.latent.space/)
-- ["Your Undivided Attention"](https://www.humanetech.com/podcast)
-- ["TWIML" (This Week in Machine Learning)](https://twimlai.com/)
-- ["Gradient Decent"](https://gradientdescent.co/)
+- [This Day in AI](https://thisday.in/ai)
+- [Practical AI from Changelog](https://changelog.com/practicalai)
+- [Latent Space](https://www.latent.space/)
+- [Your Undivided Attention](https://www.humanetech.com/podcast)
+- [TWIML (This Week in Machine Learning)](https://twimlai.com/)
+- [Gradient Decent](https://gradientdescent.co/)
 - [Spring Office Hours](https://www.youtube.com/@SpringSourceDev)
 - [Bootiful Podcast](https://bootifulpodcast.fm/)
 
@@ -54,12 +55,14 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ### General Playlists
 - [Craig Walls' Spring AI Playlist](https://www.youtube.com/@crwalls)
+- [Dan Vega's Playlist](https://www.youtube.com/playlist?list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
 - [Devoxx Playlist](https://www.youtube.com/@DevoxxForever)
 
-### Notable Presentations
-- SpringIO with Mark Pollack & Christian Tzolov
+### Presentations
+- [Introducing Spring AI by Christian Tzolov / Mark Pollack @ Spring I/O 2024](https://www.youtube.com/watch?v=umKbaXsiCOY)
 - SpringOne with Josh Long, Cora, & Mark
-- Various presentations featuring Mark Pollack on Spring AI fundamentals
+- [Bootiful Artificial Intelligence - Josh Long, Mark Pollack & Rod Johnson](https://www.youtube.com/watch?v=N4ptoEo5gxY)
+- [Spring AI Is All You Need • Christian Tzolov • GOTO 2024](https://www.youtube.com/watch?v=vuhMti8B5H0)
 
 ## Who to Follow
 
@@ -78,8 +81,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 ## GitHub Repositories
 
 - [Spring AI Zero to Hero](https://github.com/spring-projects/spring-ai)
-- [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop) - awesome layout
-- [Craig Walls' Spring CLI Catalog](https://github.com/spring-cli) - makes it easy
+- [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop)
+- [Craig Walls' Spring CLI Catalog](https://github.com/spring-cli)
 
 ## Demos
 
@@ -88,13 +91,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ## Benchmarks
 
-- [Benchmarks 201 - www.latent.space](https://www.latent.space/)
 - [OpenLLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ## Contributing
 
 Your contributions are always welcome! Please read the contribution guidelines first.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
