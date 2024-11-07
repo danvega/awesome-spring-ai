@@ -2,6 +2,29 @@
 
 A curated list of awesome resources, tools, tutorials, and projects for building generative AI applications using Spring AI. This repository aims to help developers leverage the power of Large Language Models (LLMs) within the Spring ecosystem.
 
+## Contents
+
+- [What is Spring AI?](#what-is-spring-ai)
+- [Official Resources](#official-resources)
+    - [Documentation](#documentation)
+    - [Spring AI Blogs](#spring-ai-blogs)
+- [Learning Resources](#learning-resources)
+    - [Books](#books)
+    - [Podcasts](#podcasts)
+    - [YouTube](#youtube)
+        - [Channels](#channels)
+        - [Talks & Videos](#talks--videos)
+        - [General Playlists](#general-playlists)
+    - [Workshops](#workshops)
+- [Code & Examples](#code--examples)
+    - [Code Examples](#code-examples)
+    - [Demos](#demos)
+- [Community](#community)
+    - [Who to Follow](#who-to-follow)
+- [Tools & Performance](#tools--performance)
+    - [Benchmarks](#benchmarks)
+- [Contributing](#contributing)
+
 ## What is Spring AI?
 
 Spring AI is a project from the Spring team that provides a familiar and consistent Spring-style developer experience for building AI applications. It simplifies the integration of Large Language Models and other AI capabilities into Spring applications, offering:
@@ -15,17 +38,6 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - Customizable model parameters
 - Native Spring Boot integration
 
-## Contents
-
-- [Official Resources](#official-resources)
-- [Books](#books)
-- [Podcasts](#podcasts)
-- [YouTube](#youtube)
-- [Who to Follow](#who-to-follow)
-- [GitHub Repositories](#github-repositories)
-- [Demos](#demos)
-- [Benchmarks](#benchmarks)
-
 ## Official Resources
 
 ### Documentation
@@ -34,7 +46,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI Reference Documentation](https://docs.spring.io/spring-ai/reference/)
 - [Spring AI API Documentation](https://docs.spring.io/spring-ai/docs/1.0.0-SNAPSHOT/api/)
 
-### Spring AI Blogs 
+### Spring AI Blogs
 
 - [Leverage the Power of 45k, free, Hugging Face Models with Spring AI and Ollama](https://spring.io/blog/2024/10/22/leverage-the-power-of-45k-free-hugging-face-models-with-spring-ai-and-ollama)
 - [Supercharging Your AI Applications with Spring AI Advisors](https://spring.io/blog/2024/10/02/supercharging-your-ai-applications-with-spring-ai-advisors)
@@ -48,12 +60,13 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part I)](https://spring.io/blog/2024/09/26/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part-i)
 - [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part II)](https://spring.io/blog/2024/09/27/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part)
 
+## Learning Resources
 
-## Books
+### Books
 
 - ["Spring AI in Action" by Craig Walls (Manning)](https://www.manning.com/books/spring-ai-in-action)
 
-## Podcasts
+### Podcasts
 
 - [This Day in AI](https://thisday.in/ai)
 - [Practical AI from Changelog](https://changelog.com/practicalai)
@@ -64,14 +77,14 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring Office Hours](https://www.youtube.com/@SpringSourceDev)
 - [Bootiful Podcast](https://bootifulpodcast.fm/)
 
-## YouTube
+### YouTube
 
-### Channels
+#### Channels
 
 - [The Neural Maze](https://www.youtube.com/c/NeuralMaze)
 - [The Turing Lectures (General AI)](https://www.turing.ac.uk/news/turing-lectures)
 
-### Talks & Videos
+#### Talks & Videos
 
 - [Spring AI: Seamlessly Integrating AI into Your Enterprise Java Applications](https://youtu.be/kfRyY0wsZHM?si=qzIshk0GJqVTyrNm)
 - [Spring AI Is All You Need](https://youtu.be/vuhMti8B5H0?si=qhRVLh4-EaUhm9oe)
@@ -84,17 +97,20 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Bootiful Artificial Intelligence - Josh Long, Mark Pollack & Rod Johnson](https://www.youtube.com/watch?v=N4ptoEo5gxY)
 - [Spring AI Is All You Need • Christian Tzolov • GOTO 2024](https://www.youtube.com/watch?v=vuhMti8B5H0)
 
-### General Playlists
+#### General Playlists
+
 - [Craig Walls' Spring AI Playlist](https://www.youtube.com/@crwalls)
 - [Dan Vega's Playlist](https://www.youtube.com/playlist?list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
 - [Devoxx Playlist](https://www.youtube.com/@DevoxxForever)
 
-## Workshops
+### Workshops
 
 - [Spring AI Zero to Hero Workshop](https://github.com/asaikali/spring-ai-zero-to-hero) - Example applications showing how to use Spring AI to build Generative AI projects.
 - (outdated) [Workshop material for Azure OpenAI](https://github.com/Azure-Samples/spring-ai-azure-workshop) - contains step-by-step examples from 'hello world' to 'retrieval augmented generation'
 
-## Code Examples 
+## Code & Examples
+
+### Code Examples
 
 - [Flight Booking Assistant](https://github.com/tzolov/playground-flight-booking) - Spring AI powered expert system demo
 - [Spring AI Chat Bot CLI](https://github.com/tzolov/spring-ai-cli-chatbot) - chatbot with Retrieval-Augmented Generation (RAG) and conversational memory capabilities
@@ -103,7 +119,13 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI Zero to Hero](https://github.com/spring-projects/spring-ai)
 - [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop)
 
-## Who to Follow
+### Demos
+
+- [Sergi Almar's RAG Document System](https://twitter.com/sergialmar)
+
+## Community
+
+### Who to Follow
 
 - [Mark Pollack](https://x.com/markpollack)
 - [Christian Tzolov](https://x.com/christzolov)
@@ -119,11 +141,9 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Adib Saikali](https://x.com/asaikali)
 - [Clémentine Fourrier](https://x.com/clefourrier)
 
-## Demos
+## Tools & Performance
 
-- [Sergi Almar's RAG Document System](https://twitter.com/sergialmar)
-
-## Benchmarks
+### Benchmarks
 
 - [OpenLLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
