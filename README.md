@@ -28,9 +28,26 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 ## Official Resources
 
+### Documentation
+
 - [Spring AI Project](https://spring.io/projects/spring-ai)
 - [Spring AI Reference Documentation](https://docs.spring.io/spring-ai/reference/)
 - [Spring AI API Documentation](https://docs.spring.io/spring-ai/docs/1.0.0-SNAPSHOT/api/)
+
+### Spring AI Blogs 
+
+- [Leverage the Power of 45k, free, Hugging Face Models with Spring AI and Ollama](https://spring.io/blog/2024/10/22/leverage-the-power-of-45k-free-hugging-face-models-with-spring-ai-and-ollama)
+- [Supercharging Your AI Applications with Spring AI Advisors](https://spring.io/blog/2024/10/02/supercharging-your-ai-applications-with-spring-ai-advisors)
+- [Spring AI with NVIDIA LLM API](https://spring.io/blog/2024/08/20/spring-ai-with-nvidia-llm-api)
+- [Spring AI Embraces OpenAI's Structured Outputs: Enhancing JSON Response Reliability](https://spring.io/blog/2024/08/09/spring-ai-embraces-openais-structured-outputs-enhancing-json-response)
+- [Spring AI with Groq - a blazingly fast AI inference engine](https://spring.io/blog/2024/07/31/spring-ai-with-groq-a-blazingly-fast-ai-inference-engine)
+- [Spring AI with Ollama Tool Support](https://spring.io/blog/2024/07/26/spring-ai-with-ollama-tool-support)
+- [Spring AI - Structured Output](https://spring.io/blog/2024/05/09/spring-ai-structured-output)
+- [Spring AI - Multimodality - Orbis Sensualium Pictus](https://spring.io/blog/2024/04/19/spring-ai-multimodality-orbis-sensualium-pictus)
+- [Function Calling in Java and Spring AI using the latest Mistral AI API](https://spring.io/blog/2024/03/06/function-calling-in-java-and-spring-ai-using-the-latest-mistral-ai-api)
+- [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part I)](https://spring.io/blog/2024/09/26/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part-i)
+- [AI Meets Spring Petclinic: Implementing an AI Assistant with Spring AI (Part II)](https://spring.io/blog/2024/09/27/ai-meets-spring-petclinic-implementing-an-ai-assistant-with-spring-ai-part)
+
 
 ## Books
 
@@ -50,43 +67,60 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 ## YouTube
 
 ### Channels
+
 - [The Neural Maze](https://www.youtube.com/c/NeuralMaze)
 - [The Turing Lectures (General AI)](https://www.turing.ac.uk/news/turing-lectures)
+
+### Talks & Videos
+
+- [Spring AI: Seamlessly Integrating AI into Your Enterprise Java Applications](https://youtu.be/kfRyY0wsZHM?si=qzIshk0GJqVTyrNm)
+- [Spring AI Is All You Need](https://youtu.be/vuhMti8B5H0?si=qhRVLh4-EaUhm9oe)
+- [Introducing Spring AI](https://youtu.be/umKbaXsiCOY?si=FbqCtLIOgbihm6b6)
+- [Spring AI at Spring.IO Keynotes](https://youtu.be/XUz4LKZx83g?t=2940)
+- [Spring Tips: Spring AI](https://www.youtube.com/watch?v=aNKDoiOUo9M)
+- [Overview of Spring AI @ Devoxx 2023](https://www.youtube.com/watch?v=7OY9fKVxAFQ)
+- [Introducing Spring AI - Add Generative AI to your Spring Applications](https://www.youtube.com/watch?v=1g_wuincUdU)
+- [Introducing Spring AI by Christian Tzolov / Mark Pollack @ Spring I/O 2024](https://www.youtube.com/watch?v=umKbaXsiCOY)
+- [Bootiful Artificial Intelligence - Josh Long, Mark Pollack & Rod Johnson](https://www.youtube.com/watch?v=N4ptoEo5gxY)
+- [Spring AI Is All You Need • Christian Tzolov • GOTO 2024](https://www.youtube.com/watch?v=vuhMti8B5H0)
 
 ### General Playlists
 - [Craig Walls' Spring AI Playlist](https://www.youtube.com/@crwalls)
 - [Dan Vega's Playlist](https://www.youtube.com/playlist?list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
 - [Devoxx Playlist](https://www.youtube.com/@DevoxxForever)
 
-### Presentations
-- [Introducing Spring AI by Christian Tzolov / Mark Pollack @ Spring I/O 2024](https://www.youtube.com/watch?v=umKbaXsiCOY)
-- SpringOne with Josh Long, Cora, & Mark
-- [Bootiful Artificial Intelligence - Josh Long, Mark Pollack & Rod Johnson](https://www.youtube.com/watch?v=N4ptoEo5gxY)
-- [Spring AI Is All You Need • Christian Tzolov • GOTO 2024](https://www.youtube.com/watch?v=vuhMti8B5H0)
+## Workshops
+
+- [Spring AI Zero to Hero Workshop](https://github.com/asaikali/spring-ai-zero-to-hero) - Example applications showing how to use Spring AI to build Generative AI projects.
+- (outdated) [Workshop material for Azure OpenAI](https://github.com/Azure-Samples/spring-ai-azure-workshop) - contains step-by-step examples from 'hello world' to 'retrieval augmented generation'
+
+## Code Examples 
+
+- [Flight Booking Assistant](https://github.com/tzolov/playground-flight-booking) - Spring AI powered expert system demo
+- [Spring AI Chat Bot CLI](https://github.com/tzolov/spring-ai-cli-chatbot) - chatbot with Retrieval-Augmented Generation (RAG) and conversational memory capabilities
+- [Spring AI Samples (community driven) Thomas Vitale](https://github.com/ThomasVitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and Large Language Models (LLMs)
+- [spring-ai-examples - (community driven) Craig Walls ](https://github.com/habuma/spring-ai-examples)
+- [Spring AI Zero to Hero](https://github.com/spring-projects/spring-ai)
+- [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop)
 
 ## Who to Follow
 
-- Thomas Vitalle
-- Christian Tzolov
-- Josh Long
-- Dan Dobrin
-- Marcus Hellberg
-- Lize Roes (langchain4j)
-- Bouke Nijhuis (TDD with GenAI)
-- Guillaume Laforge
-- Brian Sam-Bodden
-- Adib Saikali
-- Clémentine Fourrier
-
-## GitHub Repositories
-
-- [Spring AI Zero to Hero](https://github.com/spring-projects/spring-ai)
-- [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop)
-- [Craig Walls' Spring CLI Catalog](https://github.com/spring-cli)
+- [Mark Pollack](https://x.com/markpollack)
+- [Christian Tzolov](https://x.com/christzolov)
+- [Josh Long](https://twitter.com/starbuxman)
+- [Dan Vega](https://twitter.com/therealdanvega)
+- [Thomas Vitale](https://twitter.com/ThomasVitale)
+- [Dan Dobrin](https://x.com/ddobrin)
+- [Marcus Hellberg](https://twitter.com/marcushellberg)
+- Lize Roes
+- [Bouke Nijhuis](https://twitter.com/boukenijhuis)
+- [Guillaume Laforge](https://twitter.com/glaforge)
+- [Brian Sam-Bodden](https://x.com/bsbodden)
+- [Adib Saikali](https://x.com/asaikali)
+- [Clémentine Fourrier](https://x.com/clefourrier)
 
 ## Demos
 
-- Marcus' chat-bot Devoxx "branches"
 - [Sergi Almar's RAG Document System](https://twitter.com/sergialmar)
 
 ## Benchmarks
