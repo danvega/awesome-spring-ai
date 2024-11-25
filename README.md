@@ -119,6 +119,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [spring-ai-examples - (community driven) Craig Walls ](https://github.com/habuma/spring-ai-examples)
 - [Spring AI Zero to Hero](https://github.com/spring-projects/spring-ai)
 - [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop)
+- [Spring AI Powered Local CLI Chat Bot](https://github.com/JM-Lab/spring-ai-local-cli-chatbot) - Experience a fully local, Spring AI-powered CLI chatbot that runs entirely on your machine with no external services required.
 
 ### Demos
 
