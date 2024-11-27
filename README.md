@@ -82,8 +82,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 #### Channels
 
-- [The Neural Maze](https://www.youtube.com/c/NeuralMaze)
-- [The Turing Lectures (General AI)](https://www.turing.ac.uk/news/turing-lectures)
+- [The Neural Maze](https://www.youtube.com/channel/UCaixkLsW_TWWe_0yZNmvPaw)
+- [The Turing Lectures (General AI)](https://www.turing.ac.uk/events/the-turing-lectures)
 
 #### Talks & Videos
 
