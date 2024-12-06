@@ -100,7 +100,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 #### General Playlists
 
-- [Craig Walls' Spring AI Playlist](https://www.youtube.com/@crwalls)
+- [Craig Walls' Spring AI Playlist](https://www.youtube.com/watch?v=1g_wuincUdU&list=PLH5OU4wXVJc9aECkMUVPCi8g3pzs8pZ3E)
 - [Dan Vega's Playlist](https://www.youtube.com/playlist?list=PLZV0a2jwt22uoDm3LNDFvN6i2cAVU_HTH)
 - [Devoxx Playlist](https://www.youtube.com/@DevoxxForever)
 
