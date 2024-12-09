@@ -93,10 +93,11 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI at Spring.IO Keynotes](https://youtu.be/XUz4LKZx83g?t=2940)
 - [Spring Tips: Spring AI](https://www.youtube.com/watch?v=aNKDoiOUo9M)
 - [Overview of Spring AI @ Devoxx 2023](https://www.youtube.com/watch?v=7OY9fKVxAFQ)
-- [Introducing Spring AI - Add Generative AI to your Spring Applications](https://www.youtube.com/watch?v=1g_wuincUdU)
+- [Introducing Spring AI • Add Generative AI to your Spring Applications](https://www.youtube.com/watch?v=1g_wuincUdU)
 - [Introducing Spring AI by Christian Tzolov / Mark Pollack @ Spring I/O 2024](https://www.youtube.com/watch?v=umKbaXsiCOY)
-- [Bootiful Artificial Intelligence - Josh Long, Mark Pollack & Rod Johnson](https://www.youtube.com/watch?v=N4ptoEo5gxY)
+- [Bootiful Artificial Intelligence • Josh Long, Mark Pollack & Rod Johnson](https://www.youtube.com/watch?v=N4ptoEo5gxY)
 - [Spring AI Is All You Need • Christian Tzolov • GOTO 2024](https://www.youtube.com/watch?v=vuhMti8B5H0)
+- [Bringing GenAI to the Modern Enterprise. A production use-case. In Serverless Java !! • Dan Dobrin • Devoxxx Belgium 2024](https://devoxx.be/talk/?id=8188)
 
 #### General Playlists
 
@@ -108,6 +109,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [Spring AI Zero to Hero Workshop](https://github.com/asaikali/spring-ai-zero-to-hero) - Example applications showing how to use Spring AI to build Generative AI projects.
 - (outdated) [Workshop material for Azure OpenAI](https://github.com/Azure-Samples/spring-ai-azure-workshop) - contains step-by-step examples from 'hello world' to 'retrieval augmented generation'
+- [Gemini Workshop for Spring AI Java Developers • Dan Dobrin](https://github.com/ddobrin/gemini-workshop-for-spring-ai-java-developers) - workshop materials for the Java developer building Gen AI applications with Gemini models using Spring AI
+
 
 ## Code & Examples
 
