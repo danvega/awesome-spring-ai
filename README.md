@@ -152,6 +152,9 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 
 - [OpenLLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
+### UI
+- [Spring AI Playground](https://github.com/JM-Lab/spring-ai-playground) - A web UI designed to make it easy for Java developers to experiment with and integrate AI models.
+
 ## Contributing
 
 Your contributions are always welcome! Please read the contribution guidelines first.
