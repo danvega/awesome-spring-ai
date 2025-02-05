@@ -123,7 +123,7 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Spring AI Zero to Hero](https://github.com/spring-projects/spring-ai)
 - [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop)
 - [Spring AI Powered Local CLI Chat Bot](https://github.com/JM-Lab/spring-ai-local-cli-chatbot) - Experience a fully local, Spring AI-powered CLI chatbot that runs entirely on your machine with no external services required.
-
+- [Spring AI with QIANFAN](https://gitee.com/dino9527/spring-ai-examples.git) - Spring AI supports the various AI language models from QianFan. You can interact with QianFan language models and create a multilingual conversational assistant based on QianFan models.
 ### Demos
 
 - [Sergi Almar's RAG Document System](https://twitter.com/sergialmar)
