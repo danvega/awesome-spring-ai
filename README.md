@@ -124,6 +124,8 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - [Dan's Spring AI Workshop](https://github.com/danvega/spring-ai-workshop)
 - [Spring AI Powered Local CLI Chat Bot](https://github.com/JM-Lab/spring-ai-local-cli-chatbot) - Experience a fully local, Spring AI-powered CLI chatbot that runs entirely on your machine with no external services required.
 - [Spring AI with QianFan](https://gitee.com/dino9527/spring-ai-examples.git) - Spring AI supports the various AI language models from QianFan. You can interact with QianFan language models and create a multilingual conversational assistant based on QianFan models.
+- - [Hello Flash: OpenAI-Compatible Gemini API](https://github.com/your-repo/hello-flash) - Showcases how to host Google’s Gemini models while maintaining full compatibility with OpenAI’s API. This project enables Java developers to switch from OpenAI to Gemini models seamlessly, using the same client libraries and API calls, requiring only an API key.
+
 
 ### Demos
 
