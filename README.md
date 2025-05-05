@@ -67,6 +67,9 @@ Spring AI is a project from the Spring team that provides a familiar and consist
 - ["Spring AI in Action" by Craig Walls (Manning)](https://www.manning.com/books/spring-ai-in-action)
 - ["Spring AI for Your Organization - GCP Vertex AI Edition" by Muthukumaran Navaneethakrishnan (Leanpub)](https://leanpub.com/springai)
 
+### Articles
+- [Configuring MCP-Client SSE using Spring AI](https://medium.com/@shaamamanoharan/configuring-mcp-client-sse-in-spring-boot-fb07371c35a7)
+
 ### Podcasts
 
 - [This Day in AI](https://thisday.in/ai)
